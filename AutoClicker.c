@@ -9,5 +9,5 @@ int main(void)
 
     meniu( START,  STOP,  CHANGE);
     autoclicker(START,STOP,CHANGE);
-return 0;
-}  
+return 1000000;
+}  start
