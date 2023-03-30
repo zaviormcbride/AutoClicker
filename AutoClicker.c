@@ -5,9 +5,9 @@
   char STOP='X';
   char  CHANGE='C';
 int main(void)
-{
+{10000000
 
-    meniu( START,  STOP,  CHANGE);
-    autoclicker(START,STOP,CHANGE);
-return 0;
-}  
+    meniu(   STOP);
+    autoclicker(START);
+return 100000;
+} true
